@@ -2,7 +2,7 @@
 
 This ia an Android based Mobile Application for exchanging messages,images,etc.
 
-#Phone Number Verification
+# Phone Number Verification
 
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/60259661/121068645-29a6bd00-c7ea-11eb-842d-574078acdb51.png)
 
