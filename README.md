@@ -12,7 +12,7 @@ The idea behind building this App was to understand how Andriod work and to lear
 
  **Project Scope**
  
- Phone Number Authentication.
+ *Phone Number Authentication.
 Setting Profile Name.
 Uploding Profile Image.
 Real Time Chatting.
