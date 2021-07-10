@@ -10,10 +10,10 @@ The idea behind building this App was to understand how Andriod work and to lear
 
 ![11](https://user-images.githubusercontent.com/55083648/125155540-41bd8380-e17e-11eb-92e1-52bb13e908d2.jpg)
 
-![12](https://user-images.githubusercontent.com/55083648/125155583-a082fd00-e17e-11eb-9427-60f9e5328cd5.jpg)
+![12](https://user-images.githubusercontent.com/55083648/125155583-a082fd00-e17e-11eb-9427-60f9e5328cd5.jpg)      ![13](https://user-images.githubusercontent.com/55083648/125155638-d627e600-e17e-11eb-97f5-72d5dfcaf62b.jpg)
 
 
-![13](https://user-images.githubusercontent.com/55083648/125155638-d627e600-e17e-11eb-97f5-72d5dfcaf62b.jpg)
+
 
 
 
