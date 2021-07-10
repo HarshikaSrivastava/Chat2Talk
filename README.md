@@ -12,7 +12,8 @@ The idea behind building this App was to understand how Andriod work and to lear
 
 ` `**Activities of our Android App**
 
-![1]([https://user-images.githubusercontent.com/55083648/125155896-408d5600-e180-11eb-9151-59bb0f9ac8c2.png]()
+![1](https://user-images.githubusercontent.com/55083648/125156272-42581900-e182-11eb-80fa-d7f2b5276794.png)
+
 
 ![2]([https://user-images.githubusercontent.com/55083648/125155902-471bcd80-e180-11eb-8615-f4c007ee73a5.png]()
 
