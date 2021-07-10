@@ -10,16 +10,6 @@
 
 The idea behind building this App was to understand how Andriod work and to learn FIREBASE and for this we thought it is best to build a chatting application which we use on a daily basis.
 
- **Project Scope**
- 
- *Phone Number Authentication.
-*Setting Profile Name.
-Uploding Profile Image.
-Real Time Chatting.
-Uploading Status.
-Reaction on Messages.
-Sharing Files & Images.
-
 
 ` `**Activities of our Android App**
 
