@@ -8,7 +8,7 @@ The idea behind building this App was to understand how Andriod work and to lear
 
 ## Activities of our Android App
 
-![1](https://user-images.githubusercontent.com/60259661/125155397-2ef67f00-e17d-11eb-829d-585da825425b.JPG)|![2](https://user-images.githubusercontent.com/60259661/125155401-39b11400-e17d-11eb-86ea-261b0f79095a.JPG)
+![1](https://user-images.githubusercontent.com/60259661/125155397-2ef67f00-e17d-11eb-829d-585da825425b.JPG)![2](https://user-images.githubusercontent.com/60259661/125155401-39b11400-e17d-11eb-86ea-261b0f79095a.JPG)
 
 ![3](https://user-images.githubusercontent.com/60259661/125155408-43d31280-e17d-11eb-9497-03dc42578b72.JPG)![4](https://user-images.githubusercontent.com/60259661/125155412-4cc3e400-e17d-11eb-935b-7a0aa9930e4b.JPG)
 
