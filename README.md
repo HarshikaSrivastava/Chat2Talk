@@ -12,13 +12,11 @@ The idea behind building this App was to understand how Andriod work and to lear
 
 ` `**Activities of our Android App**
 
-![1](https://user-images.githubusercontent.com/55083648/125156272-42581900-e182-11eb-80fa-d7f2b5276794.png)
-
-![2](https://user-images.githubusercontent.com/55083648/125156296-6156ab00-e182-11eb-90aa-9bafb93673a8.png)
-![3](https://user-images.githubusercontent.com/55083648/125156297-64ea3200-e182-11eb-840b-21310a020a87.png)
-![4](https://user-images.githubusercontent.com/55083648/125156302-687db900-e182-11eb-965e-1ca73c91f298.png)
-![5](https://user-images.githubusercontent.com/55083648/125156304-6c114000-e182-11eb-96bd-acb222bae92c.png)
-
+![111](https://user-images.githubusercontent.com/55083648/125156756-c01d2400-e184-11eb-91cf-dd42feca458c.PNG)
+![112](https://user-images.githubusercontent.com/55083648/125156770-d3c88a80-e184-11eb-8469-992bc0d32ff5.PNG)
+![113](https://user-images.githubusercontent.com/55083648/125156776-dfb44c80-e184-11eb-8a00-4707a681c2c0.PNG)
+![114](https://user-images.githubusercontent.com/55083648/125156780-e5aa2d80-e184-11eb-890e-506b5787a0e4.PNG)
+![115](https://user-images.githubusercontent.com/55083648/125156783-e80c8780-e184-11eb-9e8b-60d6de85b86a.PNG)
 
 
 
