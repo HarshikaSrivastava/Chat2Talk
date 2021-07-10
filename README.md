@@ -8,10 +8,8 @@ The idea behind building this App was to understand how Andriod work and to lear
 
 ## Activities of our Android App
 
-![1](https://user-images.githubusercontent.com/55083648/125155896-408d5600-e180-11eb-9151-59bb0f9ac8c2.png)   ![2](https://user-images.githubusercontent.com/55083648/125155902-471bcd80-e180-11eb-8615-f4c007ee73a5.png)
-
+![1](https://user-images.githubusercontent.com/55083648/125155896-408d5600-e180-11eb-9151-59bb0f9ac8c2.png)![2](https://user-images.githubusercontent.com/55083648/125155902-471bcd80-e180-11eb-8615-f4c007ee73a5.png)
 ![3](https://user-images.githubusercontent.com/55083648/125155909-4e42db80-e180-11eb-866a-5e6711d1921e.png)   ![4](https://user-images.githubusercontent.com/55083648/125155915-53078f80-e180-11eb-9920-185a327eae6d.png)
-
 ![5](https://user-images.githubusercontent.com/55083648/125155919-56028000-e180-11eb-8549-cfd0715f94a9.png)
 
 
